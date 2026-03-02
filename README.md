@@ -24,8 +24,7 @@ This is a docu for creating and converting mermaid charts to svg
 #### Ejemplo 1
 
 
-
-```mermaid
+```markdown
 flowchart TD
     subgraph Personajes
         n["Napoleón Bonaparte"]
