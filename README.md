@@ -23,6 +23,7 @@ This is a docu for creating and converting mermaid charts to svg
 
 #### Ejemplo 1
 
+![imagen](/assets/mermaid-1.svg)
 
 ```markdown
 flowchart TD
